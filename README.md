@@ -6,6 +6,15 @@
 
 **Social media management skills for AI agents — with a self-learning loop.**
 
+Created and maintained by **[Mian Adil](https://portfolio.mianadil.site)** — Full-Stack Web Engineer · Technical SEO · AI Automation · Co-Founder, [Renzoify](https://portfolio.mianadil.site)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-mianadil.site-0A66C2?style=flat-square)](https://portfolio.mianadil.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mianadilhussain-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mianadilhussain/)
+[![Instagram](https://img.shields.io/badge/Instagram-mianadilofficial-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/mianadilofficial)
+[![Threads](https://img.shields.io/badge/Threads-mianadilautomation-000000?style=flat-square&logo=threads)](https://www.threads.com/@mianadilautomation)
+[![Facebook](https://img.shields.io/badge/Facebook-Mian%20Adil%20Hussain-1877F2?style=flat-square&logo=facebook)](https://www.facebook.com/mianadilhussain007)
+[![GitHub](https://img.shields.io/badge/GitHub-mianadilofficial-181717?style=flat-square&logo=github)](https://github.com/mianadilofficial)
+
 One core brain that any agent can use to manage **Instagram, Threads,
 LinkedIn, Facebook and X**: planning, writing, humanizing, publishing
 through the agent's own tools, and auditing what worked.
@@ -198,6 +207,26 @@ Issues and pull requests are welcome — see
 [Code of Conduct](CODE_OF_CONDUCT.md). Security reports: see
 [`SECURITY.md`](SECURITY.md).
 
+## 👤 Author
+
+<img src="https://github.com/mianadilofficial.png" width="110" align="left" alt="Mian Adil" />
+
+**Mian Adil** — Full-Stack Web Engineer, Technical SEO Consultant and AI
+Automation builder from Pakistan, working with international clients.
+Co-Founder of **Renzoify**, a digital agency. He builds websites, SEO
+systems and AI automations for local businesses, and created this suite to
+run his own social media with AI agents — then open-sourced the system so
+other builders can do the same.
+
+- 🌐 Portfolio: [portfolio.mianadil.site](https://portfolio.mianadil.site)
+- 💼 LinkedIn: [linkedin.com/in/mianadilhussain](https://www.linkedin.com/in/mianadilhussain/)
+- 📸 Instagram: [@mianadilofficial](https://www.instagram.com/mianadilofficial)
+- 🧵 Threads: [@mianadilautomation](https://www.threads.com/@mianadilautomation)
+- 📘 Facebook: [Mian Adil Hussain](https://www.facebook.com/mianadilhussain007)
+- 🐙 GitHub: [@mianadilofficial](https://github.com/mianadilofficial)
+
+<br clear="left" />
+
 ## 🙏 Credit
 
 The core Instagram skills are derived from
@@ -209,3 +238,10 @@ by **Mian Adil**.
 ## 📄 License
 
 MIT — see [`LICENSE`](LICENSE). Use it, change it, ship it.
+
+---
+
+<p align="center">
+  <b>Social Agent Suite</b> — created and maintained by <a href="https://portfolio.mianadil.site">Mian Adil</a>.<br/>
+  If this project helps you, a ⭐ on the repo is the best thank-you.
+</p>
