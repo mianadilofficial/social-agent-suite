@@ -6,6 +6,13 @@ separately in `knowledge/CHANGELOG.md`.
 
 ## [Unreleased]
 
+### Changed
+- Licensing is now dual (owner's decision, 2026-11-03): the derived base
+  portions remain MIT; all of Mian Adil's original additions are
+  All Rights Reserved. Root `LICENSE` rewritten to state both parts;
+  the standalone MIT text for the base portions lives in
+  `core/skills/LICENSE`; NOTICE.md updated to match.
+
 ## [0.2.0] — 2026-11-03
 
 ### Added
@@ -22,19 +29,6 @@ separately in `knowledge/CHANGELOG.md`.
 - The learning loop is wired into the owner's live Instagram daily run:
   every run reads the swipe bank first and ends with a learning pass into
   the local knowledge mirror.
-
-
-### Changed
-- Licensing is now dual (owner's decision, 2026-11-03): the derived base
-  portions remain MIT; all of Mian Adil's original additions are
-  All Rights Reserved. Root `LICENSE` rewritten to state both parts;
-  the standalone MIT text for the base portions lives in
-  `core/skills/LICENSE`; NOTICE.md updated to match.
-
-### Added
-- Muse adapter: first adapted skill (`social-ig-content`) and adapter guide.
-- Threads, LinkedIn, Facebook and X platform modules (in progress).
-- Codex and Gemini/Antigravity adapters (in progress).
 
 ## [0.1.0] — 2026-11-03
 
