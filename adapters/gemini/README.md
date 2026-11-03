@@ -1,14 +1,19 @@
-# Gemini / Antigravity adapter — in progress
+# Gemini / Antigravity adapter
 
-Gemini CLI and Antigravity read persistent context from `GEMINI.md` and run
-repeatable jobs as workflow files. This adapter will ship:
+Status: ✅ Ready
 
-- A `GEMINI.md` that loads the suite core (`core/skills/`,
-  `core/templates/`, `knowledge/`) and states the hard rules once.
-- Workflow files mirroring the daily content cycle and the learning pass,
-  so a Gemini agent scrolling any platform files its learnings into
-  `knowledge/` in the same entry format every other agent uses.
-- The five Python tools, unchanged — they are plain local scripts.
+- **`GEMINI.md`** — the context file Gemini CLI and Antigravity read at
+  project start. It wires the agent to the core, the platform modules,
+  the knowledge base, the owner's laws, and the learning duty.
+- **`workflows/`** — literal step files for the two recurring jobs:
+  `daily-content.md` (the daily cross-platform cycle) and
+  `learning-pass.md` (the end-of-session knowledge update).
 
-Status: being written and tested in Antigravity. Until this page says
-otherwise, treat the Claude adapter as the reference implementation.
+## Setup
+
+1. Clone this repo into the workspace the agent runs in, so the relative
+   paths in `GEMINI.md` resolve.
+2. Keep the filled voice profile local (`voice.local.md`, gitignored);
+   the public repo only carries `core/templates/voice.md`.
+3. Publishing uses the environment's own authorized routes (CLIs,
+   browser, crons). The suite is the brain; the host supplies the hands.

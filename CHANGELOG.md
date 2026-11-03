@@ -6,6 +6,24 @@ separately in `knowledge/CHANGELOG.md`.
 
 ## [Unreleased]
 
+## [0.2.0] — 2026-11-03
+
+### Added
+- Platform modules (`platforms/`): Threads, LinkedIn, Facebook — full
+  management skills with the owner's locked rules, real publishing routes,
+  lead-hunting and tracker law. X module written and parked (owner's order).
+- `core/learning-loop.md` — the canonical learning protocol.
+- Muse adapter completed: social-reel, social-plan, social-audit,
+  social-learn, social-threads, social-linkedin, social-facebook
+  (8 skills total).
+- Codex adapter ready: drop-in `AGENTS.md` + `skills/social-suite/SKILL.md`.
+- Gemini / Antigravity adapter ready: `GEMINI.md` + daily-content and
+  learning-pass workflows.
+- The learning loop is wired into the owner's live Instagram daily run:
+  every run reads the swipe bank first and ends with a learning pass into
+  the local knowledge mirror.
+
+
 ### Changed
 - Licensing is now dual (owner's decision, 2026-11-03): the derived base
   portions remain MIT; all of Mian Adil's original additions are

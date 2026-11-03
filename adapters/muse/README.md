@@ -19,7 +19,13 @@ routes Muse actually has hands for:
 | Folder | Adapts | Status |
 |---|---|---|
 | `social-ig-content/` | ig-carousel + ig-caption + ig-human, wired to Muse's carousel system | ✅ live |
-| more | ig-reel, ig-plan, ig-audit, platform modules | 🚧 in progress |
+| `social-reel/` | ig-reel + ig-viral, Muse delivery rules | ✅ live |
+| `social-plan/` | weekly cross-platform planning from the evidence base | ✅ live |
+| `social-audit/` | account audits on live metrics only | ✅ live |
+| `social-learn/` | the learning pass + weekly upgrade rollup | ✅ live |
+| `social-threads/` | Threads module via threads-cli | ✅ live |
+| `social-linkedin/` | LinkedIn module via the signed-in browser | ✅ live |
+| `social-facebook/` | Facebook profile module via browser | ✅ live |
 
 ## Voice and paths
 

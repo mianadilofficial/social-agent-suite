@@ -94,9 +94,9 @@ you rewrite.
 | Agent | Where to start |
 |---|---|
 | Claude / Claude Code | [`adapters/claude/`](adapters/claude/) — ready |
-| Muse | [`adapters/muse/`](adapters/muse/) — first skills live |
-| Codex | [`adapters/codex/`](adapters/codex/) — in progress |
-| Gemini / Antigravity | [`adapters/gemini/`](adapters/gemini/) — in progress |
+| Muse | [`adapters/muse/`](adapters/muse/) — 8 skills live |
+| Codex | [`adapters/codex/`](adapters/codex/) — ready |
+| Gemini / Antigravity | [`adapters/gemini/`](adapters/gemini/) — ready |
 
 ### 3. Run your first skill
 
@@ -113,6 +113,9 @@ your back.
 core/            the platform-agnostic brain
   skills/        the 13 content skills (see table below)
   templates/     voice.md template
+  learning-loop.md  the canonical learning protocol
+platforms/       one management module per platform
+  threads/  linkedin/  facebook/  x/ (parked)
 knowledge/       the learning memory
   hooks.md           hook patterns that proved themselves
   formats.md         formats ranked by what they earn (reach/saves/comments)
@@ -191,14 +194,16 @@ Learning never authorizes publishing or sending by itself.
 - [x] Core brain imported (13 skills + 5 tools)
 - [x] Knowledge base + learning-loop structure
 - [x] Claude adapter
-- [ ] Muse adapter — full Instagram set, then wired into a live daily system
-- [ ] Threads module
-- [ ] LinkedIn module
-- [ ] Facebook module
-- [ ] X module (written; activates when the account route is ready)
-- [ ] Codex adapter
-- [ ] Gemini / Antigravity adapter
-- [ ] Learning loop wired into live daily runs, first weekly rollup
+- [x] Muse adapter — 8 skills (content, reel, plan, audit, learn, threads, linkedin, facebook)
+- [x] Threads module
+- [x] LinkedIn module
+- [x] Facebook module
+- [x] X module (written; activates when the account route is ready)
+- [x] Codex adapter
+- [x] Gemini / Antigravity adapter
+- [x] Learning loop wired into the live Instagram daily run
+- [ ] First weekly upgrade rollup (promotions from accumulated knowledge)
+- [ ] Social preview image (GitHub web UI only)
 
 ## 🤝 Contributing
 
