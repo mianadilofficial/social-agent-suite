@@ -1,7 +1,48 @@
-MIT License
+# License — Social Agent Suite (dual licensing)
 
-Copyright (c) 2026 Jake Schincariol (original Instagram skill pack portions)
-Copyright (c) 2026 Mian Adil (multi-platform structure, adapters, learning loop, and all other additions)
+This repository contains work under two different licenses. Which license
+applies depends on which part you are looking at.
+
+=====================================================================
+PART A — Original work of Mian Adil: ALL RIGHTS RESERVED
+=====================================================================
+
+Copyright (c) 2026 Mian Adil (https://portfolio.mianadil.site)
+
+This part covers everything in this repository EXCEPT the portions listed
+in Part B below, including (without limitation):
+
+- the suite structure (core / adapters / knowledge / docs organisation),
+- the self-learning loop and the knowledge/ system,
+- the agent adapters (adapters/) and all platform modules,
+- all documentation, including this file's structure, the README and
+  the files under docs/ and .github/,
+- every future addition by Mian Adil to this repository.
+
+All rights reserved.
+
+No part of the Part A material may be copied, modified, merged,
+redistributed, sublicensed, sold, or used to create derivative works,
+in whole or in part, without the prior written permission of Mian Adil.
+Viewing this public repository, and using GitHub's own fork feature for
+reference, do not grant any right to reuse the Part A material in another
+project, product or repository.
+
+To request permission, contact Mian Adil through
+https://portfolio.mianadil.site
+
+=====================================================================
+PART B — Derived portions: MIT LICENSE
+=====================================================================
+
+The following portions are derived from "instagram-agent-skill" by
+Jake Schincariol (https://github.com/Jakeschincariol/instagram-agent-skill)
+and remain under the MIT License, as that license requires:
+
+- the ig-* skill folders and their bundled tools under core/skills/,
+- core/templates/voice.md.
+
+Copyright (c) 2026 Jake Schincariol
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -20,3 +61,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+=====================================================================
+
+The MIT text for Part B also lives on its own in core/skills/LICENSE.
+See NOTICE.md for the full attribution breakdown.

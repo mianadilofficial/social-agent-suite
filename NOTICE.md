@@ -1,6 +1,8 @@
 # Notice and attribution
 
-This project is MIT licensed (see `LICENSE`).
+This project is **dual licensed** (see `LICENSE`): the derived portions
+listed below remain MIT, and everything original to Mian Adil is
+© Mian Adil, All Rights Reserved.
 
 ## Derived from
 
@@ -19,7 +21,8 @@ his copyright notice appears in `LICENSE`.
 
 ## Original to this project
 
-By Mian Adil (Copyright (c) 2026):
+By Mian Adil (Copyright (c) 2026, **All Rights Reserved** — see Part A of
+the root `LICENSE`; no reuse without written permission):
 
 - The multi-platform suite structure (core / adapters / knowledge / docs)
 - Platform modules for Threads, LinkedIn, Facebook and X (in progress)

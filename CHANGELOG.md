@@ -6,6 +6,13 @@ separately in `knowledge/CHANGELOG.md`.
 
 ## [Unreleased]
 
+### Changed
+- Licensing is now dual (owner's decision, 2026-11-03): the derived base
+  portions remain MIT; all of Mian Adil's original additions are
+  All Rights Reserved. Root `LICENSE` rewritten to state both parts;
+  the standalone MIT text for the base portions lives in
+  `core/skills/LICENSE`; NOTICE.md updated to match.
+
 ### Added
 - Muse adapter: first adapted skill (`social-ig-content`) and adapter guide.
 - Threads, LinkedIn, Facebook and X platform modules (in progress).

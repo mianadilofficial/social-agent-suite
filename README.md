@@ -1,6 +1,6 @@
 # Social Agent Suite
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License: Dual](https://img.shields.io/badge/License-Dual%20—%20MIT%20%2B%20All%20Rights%20Reserved-yellow.svg)](LICENSE)
 [![Status: Building in public](https://img.shields.io/badge/status-building%20in%20public-blue.svg)](#-roadmap)
 [![Agents: Claude · Muse · Codex · Gemini](https://img.shields.io/badge/agents-Claude%20%C2%B7%20Claude%20Code%20%C2%B7%20Codex%20%C2%B7%20Gemini-purple.svg)](#-agent-adapters)
 
@@ -237,7 +237,15 @@ by **Mian Adil**.
 
 ## 📄 License
 
-MIT — see [`LICENSE`](LICENSE). Use it, change it, ship it.
+**Dual licensed** — see [`LICENSE`](LICENSE) for the full text:
+
+- The derived Instagram skill portions (from Jake Schincariol's
+  instagram-agent-skill) remain **MIT**, as their license requires.
+- Everything original to this suite — the structure, learning loop,
+  adapters, platform modules and documentation — is
+  **© 2026 Mian Adil, All Rights Reserved**: view it freely here, but no
+  copying, modification or redistribution without written permission
+  via [portfolio.mianadil.site](https://portfolio.mianadil.site).
 
 ---
 
