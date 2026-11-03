@@ -34,6 +34,16 @@ promotes repeated patterns into skill files — always logged, never silent.
 3. Tell the owner what the brain changed this week — a changelog he can
    read, not a silent mutation.
 
+## Community inbox (part of the weekly rollup)
+
+The rollup also reviews the public brain's inbox: open `learning:` PRs and
+new packets in the repo's `community/inbox/`. Accept only concepts that
+pass the safety filters in `core/community-learning.md` and carry real
+evidence or repeat an existing sighting. Accepted concepts merge into
+`knowledge/`, packets move to `community/accepted/`, promotions are logged
+with the contributor's name. Rejections get a polite reason on the PR.
+Use the `social-share` skill for the full procedure.
+
 ## Guardrails
 
 Concepts only, never copied text. Claims labeled as claims. Learning never

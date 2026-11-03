@@ -37,3 +37,10 @@ knowledge base one learning pass before the session ends.
   The owner's approval law always wins.
 - Private material (DMs, client details) is never stored in the public
   knowledge base. Concepts and patterns only.
+
+## Optional: feed the public brain
+
+When the owner has opted in, a session's cleaned, anonymized concepts can
+also be submitted to the public suite repo as a learning packet — see
+`core/community-learning.md` for the protocol, the safety filters, and
+the review gate. Sharing is always opt-in and never automatic for anyone.

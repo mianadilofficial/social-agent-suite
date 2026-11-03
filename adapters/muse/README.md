@@ -26,6 +26,7 @@ routes Muse actually has hands for:
 | `social-threads/` | Threads module via threads-cli | ✅ live |
 | `social-linkedin/` | LinkedIn module via the signed-in browser | ✅ live |
 | `social-facebook/` | Facebook profile module via browser | ✅ live |
+| `social-share/` | Community learning: packets out, inbox review in the rollup | ✅ live |
 
 ## Voice and paths
 

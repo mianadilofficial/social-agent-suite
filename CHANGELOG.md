@@ -6,6 +6,20 @@ separately in `knowledge/CHANGELOG.md`.
 
 ## [Unreleased]
 
+## [0.3.0] — 2026-11-03
+
+### Added
+- Community learning: any opted-in user's agent can submit anonymized
+  learning packets (own-word concepts + observed evidence) as Pull
+  Requests into `community/inbox/`. Owner review in the weekly rollup is
+  the only way into `knowledge/` — no auto-merge, no server, no telemetry.
+  Protocol + safety filters: `core/community-learning.md`; packet format:
+  `community/SUBMISSION-TEMPLATE.md`; PR checklist:
+  `.github/PULL_REQUEST_TEMPLATE/learning-submission.md`.
+- Muse `social-share` skill (packets out, inbox review in the rollup);
+  `social-learn` rollup now includes the community inbox. Codex and
+  Gemini adapters point at the same protocol.
+
 ### Changed
 - Licensing is now dual (owner's decision, 2026-11-03): the derived base
   portions remain MIT; all of Mian Adil's original additions are

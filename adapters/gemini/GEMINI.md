@@ -34,3 +34,10 @@ literally; they encode the owner's current systems.
 Every session ends by writing concepts (own words only) into `knowledge/`
 and logging promotions in `knowledge/CHANGELOG.md`. Learning never
 authorizes publishing by itself.
+
+## Community learning
+
+If the owner opted in, cleaned anonymized concepts can be submitted to
+the public repo as learning packets — protocol and safety filters in
+`core/community-learning.md`. Opt-in only; the owner reviews everything;
+nothing auto-merges.

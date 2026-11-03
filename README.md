@@ -123,6 +123,9 @@ knowledge/       the learning memory
   platform-changes.md  algorithm and rule changes, dated and sourced
   swipe-bank.md      concepts worth adapting, marked used/unused
   CHANGELOG.md       every brain upgrade, with the reason
+community/       the public learning inbox
+  inbox/           packets waiting for the weekly review
+  accepted/        reviewed packets (credit stays on the packet)
 adapters/        the same core, wrapped per agent
   claude/  muse/  codex/  gemini/
 docs/            blueprint and design notes
@@ -147,6 +150,18 @@ session, a daily run, research — it must not just act. It must learn:
    promotion needs repetition.
 
 Learning never authorizes publishing or sending by itself.
+
+## 🌍 Community learning
+
+The brain can also learn from the crowd — safely. Any user can opt in and
+have their agent submit **learning packets**: anonymized concepts in their
+own words, with the evidence actually observed, filed as a Pull Request
+into `community/inbox/`. Nothing reaches `knowledge/` automatically: the
+owner reviews every packet in the weekly rollup, promotes what repeats
+and proves itself, and logs each promotion with the contributor's name.
+
+No server, no telemetry, no silent uploads — GitHub is the pipe and the
+owner is the gate. Full protocol: [`core/community-learning.md`](core/community-learning.md).
 
 ## 🔌 Agent adapters
 
@@ -202,6 +217,7 @@ Learning never authorizes publishing or sending by itself.
 - [x] Codex adapter
 - [x] Gemini / Antigravity adapter
 - [x] Learning loop wired into the live Instagram daily run
+- [x] Community learning (opt-in packets via PR, owner-reviewed)
 - [ ] First weekly upgrade rollup (promotions from accumulated knowledge)
 - [ ] Social preview image (GitHub web UI only)
 

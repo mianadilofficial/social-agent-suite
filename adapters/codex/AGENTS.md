@@ -23,3 +23,8 @@ task in this project:
 5. Voice: read the owner's filled voice profile if present locally
    (`voice.local.md`, never committed); otherwise `core/templates/voice.md`
    defines the shape.
+
+6. Community learning (only if the user opted in): cleaned, anonymized
+   concepts may be submitted as a learning packet per
+   `core/community-learning.md`. Never submit silently; never include
+   names, client data, or copied text.
